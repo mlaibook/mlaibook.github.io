@@ -1,0 +1,116 @@
+body {
+    font: 14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #2b2b2b;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px 0 20px 0px;
+    background: #eae6d1;
+}
+
+header h1 {
+    font: 40px/48px'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #f3f3f3;
+    text-shadow: 0px 2px 0px #235796;
+    margin: 0px;
+}
+
+header p {
+    color: #d8d8d8;
+    text-shadow: rgb(0 0 0 / 20%) 0 1px 0;
+    font-size: 18px;
+    margin: 0px;
+}
+
+header {
+    padding: 25px 20px 40px 20px;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    background: #4276b6;
+    box-shadow: 1px 0px 2px rgb(0 0 0 / 75%);
+    z-index: 99;
+    -webkit-font-smoothing: antialiased;
+    min-height: 76px;
+}
+
+#book-cover {
+    z-index: 101;
+    left: 20px;
+    top: 190px;
+    position: fixed;
+    width: 300px;
+    background: #fff;
+    box-shadow: 0px 1px 3px rgb(0 0 0 / 25%);
+    border-radius: 0px 2px 2px 0px;
+    padding-right: 10px;
+}
+
+#book-cover img {
+    width: 300px;
+}
+
+#banner {
+    z-index: 100;
+    left: 20px;
+    right: 20px;
+    height: 50px;
+    position: fixed;
+    top: 115px;
+    background: #ffcc00;
+    border: 1px solid #f0b500;
+    box-shadow: 0px 1px 3px rgb(0 0 0 / 25%);
+    border-radius: 0px 2px 2px 0px;
+    padding-right: 20px;
+}
+
+#banner .button:hover {
+    background: linear-gradient(#ffe788, #ffe788);
+    background-color: #ffeca0;
+}
+
+#banner .button {
+    border: 1px solid #dba500;
+    background: linear-gradient(#ffe788, #ffce38);
+    border-radius: 2px;
+    box-shadow: inset 0px 1px 0px rgb(255 255 255 / 40%), 0px 1px 1px rgb(0 0 0 / 10%);
+    background-color: #FFE788;
+    margin-left: 10px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height: 14px;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+}
+
+.wrapper {
+    margin: 0 20px 0 350px;
+    position: relative;
+}
+
+section {
+    padding: 30px 30px 50px 30px;
+    margin: 20px 0;
+    margin-top: 190px;
+    position: relative;
+    background: #fbfbfb;
+    border-radius: 3px;
+    border: 1px solid #cbcbcb;
+    box-shadow: 0px 1px 2px rgb(0 0 0 / 9%), inset 0px 0px 2px 2px rgb(255 255 255 / 50%), inset 0 0 5px 5px rgb(255 255 255 / 40%);
+}
+
+a {
+    color: #4276b6;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    outline: 0;
+}
