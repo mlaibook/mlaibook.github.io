@@ -18,3 +18,7 @@ layout: default
 * 第八章 聚类分析 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch8-clustering.ipynb))
 * 第九章 强化学习 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch9-reinforcement-learning.ipynb))
 * 第十章 自然语言处理 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch10-nlp.ipynbb))
+
+## 纸质书购买链接
+
+[京东/机械工业出版社](https://item.jd.com/13733932.html)
