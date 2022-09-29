@@ -9,7 +9,7 @@ layout: default
 * 前言 ([课件PPT](/assets/slides/ch0-introduction.pptx))
 * 第一章 专家系统 ([课件PPT](/assets/slides/ch1-expert-system.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch1-expert-system.ipynb))
 * 第二章 决策树 ([课件PPT](/assets/slides/ch2-decision-tree.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch2-decision-tree.ipynb))
-* 第三章 神经元和感知机 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch3-perceptron.ipynb))
+* 第三章 神经元和感知机 ([课件PPT](/assets/slides/ch3-perceptron.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch3-perceptron.ipynb))
 * 第四章 线性回归 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch4-linear-regression.ipynb))
 * 第五章 逻辑斯蒂回归和分类器  ([Code](https://github.com/mlaibook/aipractice/blob/main/ch5-logistic-regression.ipynb))
 * 第六章 人工神经网络 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch6-neural-network.ipynb))
