@@ -11,7 +11,7 @@ layout: default
 * 第二章 决策树 ([课件PPT](/assets/slides/ch2-decision-tree.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch2-decision-tree.ipynb))
 * 第三章 神经元和感知机 ([课件PPT](/assets/slides/ch3-perceptron.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch3-perceptron.ipynb))
 * 第四章 线性回归 ([课件PPT](/assets/slides/ch4-linear.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch4-linear-regression.ipynb))
-* 第五章 逻辑斯蒂回归和分类器  ([Code](https://github.com/mlaibook/aipractice/blob/main/ch5-logistic-regression.ipynb))
+* 第五章 逻辑斯蒂回归和分类器  ([课件PPT](/assets/slides/ch5-logistic.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch5-logistic-regression.ipynb))
 * 第六章 人工神经网络 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch6-neural-network.ipynb))
     - 物体检测 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch6-yolo-object-detection.ipynb))
 * 第七章 集成学习 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch7-ensemble.ipynb))
