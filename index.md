@@ -16,7 +16,7 @@ layout: default
     - 物体检测 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch6-yolo-object-detection.ipynb))
 * 第七章 集成学习 ([课件PPT](/assets/slides/ch7-ensemble.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch7-ensemble.ipynb))
 * 第八章 聚类分析 ([课件PPT](/assets/slides/ch8-clustering.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch8-clustering.ipynb))
-* 第九章 强化学习 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch9-reinforcement-learning.ipynb))
+* 第九章 强化学习 ([课件PPT](/assets/slides/ch9-reinforce.pptx), [Code](https://github.com/mlaibook/aipractice/blob/main/ch9-reinforcement-learning.ipynb))
 * 第十章 自然语言处理 ([Code](https://github.com/mlaibook/aipractice/blob/main/ch10-nlp.ipynbb))
 
 ## 纸质书购买链接
